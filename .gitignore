@@ -1,0 +1,8 @@
+# Секреты
+.env
+*.env
+
+# Кэш Python
+__pycache__/
+*.pyc
+.env.local
